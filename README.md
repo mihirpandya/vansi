@@ -1,4 +1,4 @@
 vansi
 =====
 
-vansivallab.com
+More to come at vansi.me
