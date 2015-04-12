@@ -1,5 +1,3 @@
-#!/Users/Mihir/anaconda/bin/python
-#
 # vansi.py - the main file where all the magic happens
 
 import sys, requests
